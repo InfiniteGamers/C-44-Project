@@ -1,0 +1,34 @@
+* Characters (PC and NPC)
+2 online players 
+
+* Story
+Open- ended story
+
+* Goals
+To win the game by putting 4 coins in a row
+
+
+* Rules
+>You can't move when it's not your turn
+>You can't undo / replace any coin 
+
+* Balance
+To maintain balance in the game, the player can only move if the oher player has finished his/her move
+
+* Adaptivity
+As it's a multiplayer game it isn't really required to add some adaptivity changes as the game is controled by both online player
+
+* Chance vs Skill 
+This game requires skill to win
+
+* Feedback
+A thank you for playing message and 
+
+Hurray! You won (on winner's screen)
+
+Better Luck Next Time ! (on lossing player's screen)
+
+will apppear
+
+
+
